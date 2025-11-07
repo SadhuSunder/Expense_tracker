@@ -7,10 +7,10 @@ Combined Tkinter’s GUI capabilities and MySQL’s database management to creat
 
 ## 📸 Screenshot
 
-![Expense Tracker Screenshot](assets/demo1.png)
+![Expense Tracker Screenshot](assests/demo1.png)
 
-![Expense Tracker Screenshot](assets/demo2.png)
+![Expense Tracker Screenshot](assests/demo2.png)
 
-![Expense Tracker Screenshot](assets/demo3.png)
+![Expense Tracker Screenshot](assests/demo3.png)
 
-![Expense Tracker Screenshot](assets/demo4.png)
+![Expense Tracker Screenshot](assests/demo4.png)
